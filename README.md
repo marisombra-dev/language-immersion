@@ -131,5 +131,9 @@ Enhanced with multi-language support and cross-browser compatibility
 Free to use and modify for personal and educational purposes.
 
 ---
-
+## 💫 Let's connect
+- 💌 [Email](mailto:marisombra@proton.me)
+- 🎮 [Twitch](https://www.twitch.tv/marissombra)    
+- 🧵 [TikTok](https://www.tiktok.com/@marissombra)
+- 🪩 [Itch.io](https://marisombra.itch.io/) (for games)
 Happy Learning! 🎓🌍
