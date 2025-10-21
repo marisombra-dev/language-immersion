@@ -123,7 +123,7 @@ Spanish, French, German, Italian, Portuguese, Russian, Japanese, Chinese (Simpli
 
 ## Credits
 
-Original concept and code by the creator of "Spanglifier"
+Original concept and code by Marisombra, the creator of "Spanglifier"
 Enhanced with multi-language support and cross-browser compatibility
 
 ## License
